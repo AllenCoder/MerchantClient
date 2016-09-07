@@ -1,0 +1,7 @@
+#Wed Sep 07 18:06:49 CST 2016
+base.0=/Users/allen/Downloads/MerchantClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bf7d572b239596b122909f106fe1c37fc116a875
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/allen/Downloads/MerchantClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8f528ed094a3054367a9a74431c61678bcc2f7be/classes.dex
+base.1=/Users/allen/Downloads/MerchantClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8f528ed094a3054367a9a74431c61678bcc2f7be
+file.0=/Users/allen/Downloads/MerchantClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bf7d572b239596b122909f106fe1c37fc116a875/classes.dex

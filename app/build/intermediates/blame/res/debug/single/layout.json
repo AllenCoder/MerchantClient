@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/allen/GitHub/MerchantClient/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/allen/GitHub/MerchantClient/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/allen/GitHub/MerchantClient/app/build/intermediates/res/merged/debug/layout/merchant_pay_result.xml",
+        "source": "/Users/allen/GitHub/MerchantClient/app/src/main/res/layout/merchant_pay_result.xml"
+    },
+    {
+        "merged": "/Users/allen/Downloads/MerchantClient/app/build/intermediates/res/merged/debug/layout/merchant_pay_result.xml",
+        "source": "/Users/allen/Downloads/MerchantClient/app/src/main/res/layout/merchant_pay_result.xml"
+    },
+    {
+        "merged": "/Users/allen/Downloads/MerchantClient/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/allen/Downloads/MerchantClient/app/src/main/res/layout/activity_main.xml"
+    }
+]

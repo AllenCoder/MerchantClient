@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/allen/Downloads/MerchantClient/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/allen/Downloads/MerchantClient/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/allen/GitHub/MerchantClient/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/allen/GitHub/MerchantClient/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

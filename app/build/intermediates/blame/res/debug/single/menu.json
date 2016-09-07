@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/allen/Downloads/MerchantClient/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/allen/Downloads/MerchantClient/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/allen/GitHub/MerchantClient/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/allen/GitHub/MerchantClient/app/src/main/res/menu/main.xml"
+    }
+]

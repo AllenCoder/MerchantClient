@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/allen/Downloads/MerchantClient/app/libs/dinpayPlugin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1bc1cddc41744f0321e48eefafacd979ce29fb59">
+        <dex dex="/Users/allen/Downloads/MerchantClient/app/build/intermediates/transforms/dex/debug/folders/1000/2/dinpayPlugin_c520600834ae37151a53ff45431848cff028e286/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/allen/Downloads/MerchantClient/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="11069374d03fcc4026eca88b7ca84bb3116ae94a">
+        <dex dex="/Users/allen/Downloads/MerchantClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bf7d572b239596b122909f106fe1c37fc116a875/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/allen/Downloads/MerchantClient/app/libs/bcmail-jdk15-1.45.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3aed7e642dd8d39dc14ed1dec3ff79e084637148">
+        <dex dex="/Users/allen/Downloads/MerchantClient/app/build/intermediates/transforms/dex/debug/folders/1000/2/bcmail-jdk15-1.45_a5668916ae4d9d74d9fb708f0a7af1aedb9ea9c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android-SDK/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/allen/Downloads/MerchantClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_24807cb423bf7ab4b1f0b3fa99d64aee6685fdc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/allen/Downloads/MerchantClient/app/libs/bcprov-jdk15-1.45.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7741883cb07b4634e8b5fd3337113b6ea770a9bb">
+        <dex dex="/Users/allen/Downloads/MerchantClient/app/build/intermediates/transforms/dex/debug/folders/1000/2/bcprov-jdk15-1.45_fe7a15ff847120385fa22c4f40897d16f9fc9fa2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/allen/Downloads/MerchantClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/allen/Downloads/MerchantClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_f1d3be22d7617722da628b3f533c1f9fb68fd0ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/allen/Downloads/MerchantClient/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="14bb6a0145e234dd748bc058ce4b33fea8853c7e">
+        <dex dex="/Users/allen/Downloads/MerchantClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8f528ed094a3054367a9a74431c61678bcc2f7be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/allen/Downloads/MerchantClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/allen/Downloads/MerchantClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_b86f6f1f08d16cccfbc628d31ee05067f07f3653/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/allen/Downloads/MerchantClient/app/libs/dinpayRsaSignAPI-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3c288390c32aca22aad7f7666f5a1cb9d991d466">
+        <dex dex="/Users/allen/Downloads/MerchantClient/app/build/intermediates/transforms/dex/debug/folders/1000/2/dinpayRsaSignAPI-2.7.10_59fd01f00988683964cd57252ea9ae7ab19bc20c/classes.dex" />
+    </item>
+
+</items>
